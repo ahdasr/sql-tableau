@@ -5,5 +5,5 @@
 #### 3. Compare the average salary of female versus male employees in the entire company until year 2002, and add a filter allowing you to see that per each department.
 #### 4. Create an SQL stored procedure that will allow you to obtain the average male and female salary per department within a certain salary range. Let this range be defined by two values the user can insert when calling the procedure. Finally, visualize the obtained result-set in Tableau as a double bar chart.
 #### 5. Organizing Charts 1-4 into a Beautiful Dashboard
-
-## Tableau Public: https://public.tableau.com/views/SQL-Tableau_16373309339020/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+### Tableau Public: https://public.tableau.com/views/SQL-Tableau_16373309339020/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+### https://learn.365datascience.com/c/992866b7a7/
